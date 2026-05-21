@@ -1,7 +1,7 @@
 from twilio.rest import Client
 
-ACCOUNT_SID = "AC7df857fd80e4c273674b1af3dbda9ea7"
-AUTH_TOKEN = "63d1804d1aac4bba4da8f91e81c2dccf"
+ACCOUNT_SID = "xxxxxxxxxxxxxxxxxxxxxx"
+AUTH_TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 TWILIO_NUMBER = "+17656844699"
 RECEIVER_NUMBER = "+91xxxxxxxxxx"
