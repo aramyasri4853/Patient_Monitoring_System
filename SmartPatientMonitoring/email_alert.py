@@ -3,7 +3,7 @@ from email.mime.text import MIMEText
 
 # Your email
 SENDER_EMAIL = "xxxxxxxxxxx@gmail.com"
-APP_PASSWORD = "jlsy arhf ykvz nwav"
+APP_PASSWORD = "xxxxxxxxxxxxxxxxxxxx"
 RECEIVER_EMAIL = "xxxxxxxxxx@gmail.com"
 
 
